@@ -1,12 +1,19 @@
-# Ignore everything by default
+# Ignore everything
 *
 
-# But not these directories
+# Allow these directories
 !config/
 !defaultconfigs/
 !mods/
 !kubejs/
 !datapacks/
 
-# Also allow .gitignore itself
+# Allow all contents inside those directories
+!config/**
+!defaultconfigs/**
+!mods/**
+!kubejs/**
+!datapacks/**
+
+# Always keep the .gitignore file itself
 !.gitignore
