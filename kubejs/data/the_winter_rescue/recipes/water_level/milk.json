@@ -1,0 +1,8 @@
+{
+  "type": "frostedheart:water_level_item",
+  "ingredient": {
+    "item": "minecraft:milk_bucket"
+  },
+  "waterLevel": 8,
+  "waterSaturationLevel": 9
+}

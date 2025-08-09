@@ -1,0 +1,22 @@
+{
+  "info.jei.the_winter_rescue.disabled": "Este objeto está deshabilitado en el modpack.",
+  "info.jei.the_winter_rescue.energy_core": "El núcleo de la tecnología de toda la Humanidad Espacial. ¡Usado para construir el Generador, mantenlo a salvo!",
+  "info.jei.the_winter_rescue.power_glitch": "Este artefacto tiene potencial Fallo de poder infinito.",
+  "info.jei.the_winter_rescue.later_tech": "Este objeto se desbloqueará en una tecnología posterior. Por favor, espere la actualización.",
+  "tooltip.the_winter_rescue.replaced_recipe": "Las recetas relacionadas se pueden reemplazar por otros medios.",
+  "tooltip.the_winter_rescue.snowy_vine": "Se obtiene cortando hojas con un cuchillo de sílex.",
+  "tooltip.the_winter_rescue.flint_knife": "Obtienes enredaderas nevadas al cortar hojas.",
+  "tooltip.the_winter_rescue.flint_knife_2": "Haz clic derecho en el banco de trabajo de sílex para fabricar.",
+  "tooltip.the_winter_rescue.tanning_rack": "Después de colocar el objeto a curtir, haz clic derecho con el cuchillo de sílex para continuar.",
+  "tooltip.the_winter_rescue.clay_tool": "Usa la herramienta de arcilla para hacer clic derecho sobre un objeto.\"Bloque de arcilla para cerámica\"",
+  "tooltip.the_winter_rescue.activated_carbon": "Se obtiene usando carbón en un cargador de vapor",
+  "tooltip.the_winter_rescue.campfire": "¡Pulsa Q para echarle combustible y encenderlo con una herramienta de ignición!",
+  "tooltip.the_winter_rescue.lining": "Proporciona un efecto de calentamiento tras fabricarlo con cualquier equipo (sin forma)",
+  "tooltip.the_winter_rescue.blaze_burner": "The acquisition method will be displayed after the study is completed",
+  "biome.the_winter_rescue.hydrothermal_deposits": "Hydrothermal Deposits",
+  "biome.the_winter_rescue.magmatic_deposits": "Magmatic Deposits",
+  "biome.the_winter_rescue.fossil_deposits": "Fossil Deposits",
+  "biome.the_winter_rescue.brine_deposits": "Brine Deposits",
+  "biome.the_winter_rescue.destroyed_forest": "Destroyed Forest",
+  "biome.the_winter_rescue.frozen_forest": "Frozen Forest"
+}

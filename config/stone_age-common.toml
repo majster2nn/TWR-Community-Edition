@@ -1,0 +1,187 @@
+
+[general]
+	#Remove vanilla recipes that are changed by mod or break mod gameplay (wooden tools, torch)
+	removeVanillaRecipes = true
+	#Chance of finishing recipe in tanning rack
+	#Range: 0.001 ~ 1.0
+	tanningRackFinishChance = 0.1
+	#Chance of successfull fishing every 1/X tick (randomly)
+	#Range: > 1
+	fishingNetChance = 12000
+	#Chance of breed effect from feeder every 1/X tick
+	#Range: > 1
+	feederTickChanceBreedAnimal = 200
+	#Force tool for wood material - harvestable only with axe
+	forceToolForWood = true
+	#Remove spawning of vanilla animals like cows, pigs, sheeps
+	removeVanillaGeneratedAnimals = true
+	#Disable use of vanilla crafting table until end of Stone Age
+	disableVanillaCraftingTable = true
+	#Feeder area of breed effect
+	#Range: 0 ~ 15
+	feederEffectRange = 4
+	#List of blocks that have disabled use until end of stone age
+	disabledUseInStoneAgeList = []
+	#Domesticate wild animal after given generations
+	#Range: > 1
+	domesticateAfterGenerations = 3
+	#Give player manual on first connect to game
+	givePlayerManualOnFirstConnect = false
+
+[structures]
+	#Abandoned camp spawn chance
+	#Range: 4.9E-324 ~ 1.0
+	abandonedCampSpawnChance = 0.001
+
+["mob spawning"]
+
+	["mob spawning".deer]
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnDeerMaxCount = 8
+		#Enable spawning of mob
+		spawnDeerEnable = true
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnDeerWeight = 8
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnDeerMinCount = 4
+
+	["mob spawning".boar]
+		#Result of breeding after generations in captivity
+		boarBreedingResult = "minecraft:pig"
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnBoarWeight = 5
+		#Enable spawning of mob
+		spawnBoarEnable = true
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnBoarMinCount = 4
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnBoarMaxCount = 6
+
+	["mob spawning"."woolly rhino"]
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnWoollyRhinoMaxCount = 6
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnWoollyRhinoMinCount = 2
+		#Enable spawning of mob
+		spawnWoollyRhinoEnable = true
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnWoollyRhinoWeight = 2
+
+	["mob spawning"."terror bird"]
+		#Enable spawning of mob
+		spawnTerrorBirdEnable = true
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnTerrorBirdWeight = 5
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnTerrorBirdMaxCount = 3
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnTerrorBirdMinCount = 1
+
+	["mob spawning".coelacanth]
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnCoelacanthWeight = 5
+		#Enable spawning of mob
+		spawnCoelacanthEnable = true
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnCoelacanthMaxCount = 3
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnCoelacanthMinCount = 1
+
+	["mob spawning".mouflon]
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnMouflonWeight = 5
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnMouflonMinCount = 4
+		#Result of breeding after generations in captivity
+		mouflonBreedingResult = "minecraft:sheep"
+		#Enable spawning of mob
+		spawnMouflonEnable = true
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnMouflonMaxCount = 8
+
+	["mob spawning".auroch]
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnAurochMinCount = 4
+		#Enable spawning of mob
+		spawnAurochEnable = true
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnAurochWeight = 5
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnAurochMaxCount = 8
+		#Result of breeding after generations in captivity
+		aurochBreedingResult = "minecraft:cow"
+
+	["mob spawning"."saber tooth tiger"]
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnSaberToothTigerMinCount = 1
+		#Enable spawning of mob
+		spawnSaberToothTigerEnable = true
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnSaberToothTigerMaxCount = 2
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnSaberToothTigerWeight = 2
+
+	["mob spawning".fowl]
+		#Enable spawning of mob
+		spawnFowlEnable = true
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnFowlWeight = 5
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnFowlMaxCount = 8
+		#Result of breeding after generations in captivity
+		fowlBreedingResult = "minecraft:chicken"
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnFowlMinCount = 6
+
+	["mob spawning".mammoth]
+		#Spawn max count of mob
+		#Range: 1 ~ 100
+		spawnMammothMaxCount = 4
+		#Spawn weight of mob
+		#Range: 0 ~ 100
+		spawnMammothWeight = 1
+		#Enable spawning of mob
+		spawnMammothEnable = true
+		#Spawn min count of mob
+		#Range: 1 ~ 100
+		spawnMammothMinCount = 2
+
+[aqueduct]
+	#List of biomes where aqueduct doesn't remove water source
+	infinityWaterSourceBiomeList = []
+
+[Config]
+	#If grass bed can sleep
+	sleep = false
+	#If Drying rack need daytime
+	needDaytime = false
+	makeFire = false
+	litTorche = false
+

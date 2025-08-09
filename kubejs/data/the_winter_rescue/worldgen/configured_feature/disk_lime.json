@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "half_height": 1,
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "max_inclusive": 3,
+        "min_inclusive": 2
+      }
+    },
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "create:limestone"
+        }
+      },
+      "rules": []
+    },
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": [
+        "minecraft:dirt",
+        "frostedheart:dirt_permafrost",
+        "frostedheart:coarse_dirt_permafrost",
+        "frostedheart:sand_permafrost",
+        "frostedheart:gravel_permafrost",
+        "frostedheart:firm_ice",
+        "minecraft:clay",
+        "minecraft:gravel"
+      ]
+    }
+  }
+}

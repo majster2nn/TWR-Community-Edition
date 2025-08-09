@@ -1,0 +1,271 @@
+{
+  "item.frostedheart.hand_stove.tooltip.summary": "一个通过燃烧燃料来_温暖身体_的_便携炉子_。",
+  "item.frostedheart.hand_stove.tooltip.condition1": "当放置在主手时",
+  "item.frostedheart.hand_stove.tooltip.behaviour1": "温暖_双手_",
+  "item.frostedheart.hand_stove.tooltip.condition2": "当放置在副手时",
+  "item.frostedheart.hand_stove.tooltip.behaviour2": "温暖_躯干_",
+  "item.frostedheart.hand_stove.tooltip.condition3": "当与煤棒或木炭棒合成时",
+  "item.frostedheart.hand_stove.tooltip.behaviour3": "为炉子补充_燃料_。",
+  "item.frostedheart.hand_stove.tooltip.condition4": "当燃烧结束时",
+  "item.frostedheart.hand_stove.tooltip.behaviour4": "右击地面倒出_灰烬_。",
+
+  "item.frostedheart.thermos.tooltip.summary": "一个用来存放_热液体_的_容器_。",
+  "item.frostedheart.thermos.tooltip.condition1": "右击液体容器时",
+  "item.frostedheart.thermos.tooltip.behaviour1": "将容器中的液体装入保温瓶。",
+  "item.frostedheart.thermos.tooltip.condition2": "右击水方块时",
+  "item.frostedheart.thermos.tooltip.behaviour2": "装入 _未净化的水_。",
+  "item.frostedheart.thermos.tooltip.condition3": "当携带液体时",
+  "item.frostedheart.thermos.tooltip.behaviour3": "为液体提供隔热保温，保持其_温热_。",
+  "item.frostedheart.thermos.tooltip.condition4": "潜行右击任意方块时",
+  "item.frostedheart.thermos.tooltip.behaviour4": "清空容器。",
+  
+  "item.frostedheart.rusted_metal.tooltip.summary": "氧化后的金属，回归其自然状态。",
+  "item.frostedheart.rusted_metal.tooltip.condition1": "当被熔炼时",
+  "item.frostedheart.rusted_metal.tooltip.behaviour1": "转化为其_原始形态_。",
+
+  "item.frostedheart.snowshoes.tooltip.summary": "一双用于快速通过雪地的鞋子_.",
+  "item.frostedheart.snowshoes.tooltip.condition1": "当穿着时在雪地上跑过",
+  "item.frostedheart.snowshoes.tooltip.behaviour1": "为穿着者提供类似溜冰的效果_.",
+  "item.frostedheart.snowshoes.tooltip.condition2": "当穿着时行走于雪上",
+  "item.frostedheart.snowshoes.tooltip.behaviour2": "提升_移动速度_。",
+
+  "item.frostedheart.ice_skates.tooltip.summary": "一双用于快速通过冰面的靴子.",
+  "item.frostedheart.ice_skates.tooltip.condition1": "当穿着时通过冰面",
+  "item.frostedheart.ice_skates.tooltip.behaviour1": "提升_移动速度_。",
+
+  "item.kubejs.damaged_gpu.tooltip.summary": "一个曾用于非法挖币工厂的、现在已经损坏的显卡",
+  "item.kubejs.damaged_gpu.tooltip.condition1": "当在绘图台中使用时",
+  "item.kubejs.damaged_gpu.tooltip.behaviour1": "获得_大量见闻_。",
+
+  "item.frostedheart.energy_core.tooltip.summary": "一个会发光的核心。",
+  "item.frostedheart.energy_core.tooltip.condition1": "当用于研究时",
+  "item.frostedheart.energy_core.tooltip.behaviour1": "了解_能量塔_的建造方法。",
+
+  "item.frostedheart.copper_pro_pick.tooltip.summary": "一把用于勘探地质和发现_矿石_的特制工具",
+  "item.frostedheart.copper_pro_pick.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.copper_pro_pick.tooltip.behaviour1": "勘探一定区域内的大致矿石分布.",
+
+  "item.frostedheart.iron_pro_pick.tooltip.summary": "一把用于勘探地质和发现_矿石_的特制工具",
+  "item.frostedheart.iron_pro_pick.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.iron_pro_pick.tooltip.behaviour1": "勘探一定区域内的大致矿石分布.",
+
+  "item.frostedheart.steel_pro_pick.tooltip.summary": "一把用于勘探地质和发现_矿石_的特制工具",
+  "item.frostedheart.steel_pro_pick.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.steel_pro_pick.tooltip.behaviour1": "勘探一定区域内的大致矿石分布.",
+
+  "item.frostedheart.copper_core_spade.tooltip.summary": "一把用于勘探岩层和发现_矿石_的特制工具",
+  "item.frostedheart.copper_core_spade.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.copper_core_spade.tooltip.behaviour1": "勘探下方一定深度的岩层和矿物信息.",
+
+  "item.frostedheart.iron_core_spade.tooltip.summary": "一把用于勘探岩层和发现_矿石_的特制工具",
+  "item.frostedheart.iron_core_spade.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.iron_core_spade.tooltip.behaviour1": "勘探下方一定深度的岩层和矿物信息.",
+
+  "item.frostedheart.steel_core_spade.tooltip.summary": "一把用于勘探岩层和发现_矿石_的特制工具",
+  "item.frostedheart.steel_core_spade.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.steel_core_spade.tooltip.behaviour1": "勘探下方一定深度的岩层和矿物信息.",
+
+  "item.frostedheart.copper_geologists_hammer.tooltip.summary": "一把用于勘探土质和发现_矿石_的特制锤",
+  "item.frostedheart.copper_geologists_hammer.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.copper_geologists_hammer.tooltip.behaviour1": "勘探小范围内的精确矿石分布.",
+
+  "item.frostedheart.iron_geologists_hammer.tooltip.summary": "一把用于勘探土质和发现_矿石_的特制锤",
+  "item.frostedheart.iron_geologists_hammer.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.iron_geologists_hammer.tooltip.behaviour1": "勘探小范围内的精确矿石分布.",
+
+  "item.frostedheart.steel_geologists_hammer.tooltip.summary": "一把用于勘探土质和发现_矿石_的特制锤",
+  "item.frostedheart.steel_geologists_hammer.tooltip.condition1": "主手持有时右击地面.",
+  "item.frostedheart.steel_geologists_hammer.tooltip.behaviour1": "勘探小范围内的精确矿石分布.",
+
+  "item.kubejs.damaged_electric_motor.tooltip.summary": "一个损坏的伺服电机.",
+  "item.kubejs.damaged_electric_motor.tooltip.condition1": "当在绘图台中使用时",
+  "item.kubejs.damaged_electric_motor.tooltip.behaviour1": "获得_见闻_。",
+
+  "item.kubejs.damaged_circuit_board.tooltip.summary": "一块损坏的电路板.",
+  "item.kubejs.damaged_circuit_board.tooltip.condition1": "当在绘图台中使用时",
+  "item.kubejs.damaged_circuit_board.tooltip.behaviour1": "获得_见闻_。",
+
+  "item.kubejs.burnt_circuit_board.tooltip.summary": "一块烧坏的电路板，曾经用于驱动一个爆破机械。",
+  "item.kubejs.burnt_circuit_board.tooltip.condition1": "当在绘图台中使用时",
+  "item.kubejs.burnt_circuit_board.tooltip.behaviour1": "获得_见闻_。",
+
+  "item.kubejs.damaged_camera.tooltip.summary": "一个破损的记者相机.",
+  "item.kubejs.damaged_camera.tooltip.condition1": "当在绘图台中使用时",
+  "item.kubejs.damaged_camera.tooltip.behaviour1": "获得_见闻_。",
+
+  "item.kubejs.broken_robot_1.tooltip.summary": "在发现它的地方，刻着一行小字：“我的意义是什么?”",
+  "item.kubejs.broken_robot_1.tooltip.condition1": "当在绘图台中使用时",
+  "item.kubejs.broken_robot_1.tooltip.behaviour1": "获得_大量见闻_。",
+
+  "item.kubejs.broken_robot_2.tooltip.summary": "在发现它的地方，刻着一行小字：‘意识是什么？’",
+  "item.kubejs.broken_robot_2.tooltip.condition1": "当在绘图台中使用时",
+  "item.kubejs.broken_robot_2.tooltip.behaviour1": "获得_大量见闻_。",
+
+  "item.frostedresearch.intelligence.tooltip.summary": "一份来自各地的零散记录，包含未公开的实验数据、地方传闻和未证实的技术草案。也许并不完整，但足以开启新的思路。\n",
+  "item.frostedresearch.intelligence.tooltip.condition1": "当在绘图台中使用时",
+  "item.frostedresearch.intelligence.tooltip.behaviour1": "获得_大量见闻_。",
+
+  "item.frostedheart.temperature_probe.tooltip.summary": "一个用于了解方块温度的便携工具。",
+  "item.frostedheart.temperature_probe.tooltip.condition1": "当持于任意手中时",
+  "item.frostedheart.temperature_probe.tooltip.behaviour1": "显示_目标方块_的_温度调节值_。",
+
+  "item.frostedheart.soil_thermometer.tooltip.summary": "农民测量土壤温度的必备工具。",
+  "item.frostedheart.soil_thermometer.tooltip.condition1": "当用于一个方块时",
+  "item.frostedheart.soil_thermometer.tooltip.behaviour1": "显示_土壤温度_。",
+  "item.frostedheart.soil_thermometer.tooltip.condition2": "当持于手中时",
+  "item.frostedheart.soil_thermometer.tooltip.behaviour2": "显示_目标植物_的_生长温度需求_。",
+
+  "item.frostedheart.weather_radar.tooltip.summary": "一个在你携带时预测未来几天天气的设备。",
+  "item.frostedheart.weather_radar.tooltip.condition1": "当你携带它时",
+  "item.frostedheart.weather_radar.tooltip.behaviour1": "预测未来几天的天气。",
+
+  "item.frostedheart.weather_helmet.tooltip.summary": "一顶能预测未来几天天气的头盔。",
+  "item.frostedheart.weather_helmet.tooltip.condition1": "当你佩戴它时",
+  "item.frostedheart.weather_helmet.tooltip.behaviour1": "预测未来几天的天气。",
+
+  "item.frostedheart.mercury_body_thermometer.tooltip.summary": "注入水银的玻璃管，用于测量_体温_。",
+  "item.frostedheart.mercury_body_thermometer.tooltip.condition1": "当用于自己时",
+  "item.frostedheart.mercury_body_thermometer.tooltip.behaviour1": "显示_核心体温_。",
+
+  "item.frostedheart.leather_water_bag.tooltip.summary": "一个由防水皮革制成的液体容器。",
+  "item.frostedheart.leather_water_bag.tooltip.condition1": "右击液体容器时",
+  "item.frostedheart.leather_water_bag.tooltip.behaviour1": "将容器中的液体装入保温瓶。",
+  "item.frostedheart.leather_water_bag.tooltip.condition2": "右击水方块时",
+  "item.frostedheart.leather_water_bag.tooltip.behaviour2": "装入 _未净化的水_。",
+  "item.frostedheart.leather_water_bag.tooltip.condition3": "潜行右击任意方块时",
+  "item.frostedheart.leather_water_bag.tooltip.behaviour3": "清空容器。",
+
+  "item.frostedheart.iron_bottle.tooltip.summary": "一个由坚硬金属制成的液体容器。",
+  "item.frostedheart.iron_bottle.tooltip.condition1": "右击液体容器时",
+  "item.frostedheart.iron_bottle.tooltip.behaviour1": "将容器中的液体装入保温瓶。",
+  "item.frostedheart.iron_bottle.tooltip.condition2": "右击水方块时",
+  "item.frostedheart.iron_bottle.tooltip.behaviour2": "装入 _未净化的水_。",
+  "item.frostedheart.iron_bottle.tooltip.condition3": "潜行右击任意方块时",
+  "item.frostedheart.iron_bottle.tooltip.behaviour3": "清空容器。",
+
+  "item.frostedheart.coal_stick.tooltip.summary": "一根燃烧温和的煤棒。",
+  "item.frostedheart.coal_stick.tooltip.condition1": "当与手炉合成时",
+  "item.frostedheart.coal_stick.tooltip.behaviour1": "为炉子补充_燃料_。",
+
+  "item.frostedheart.charcoal_stick.tooltip.summary": "一根燃烧温和的木炭棒。",
+  "item.frostedheart.charcoal_stick.tooltip.condition1": "当与手炉合成时",
+  "item.frostedheart.charcoal_stick.tooltip.behaviour1": "为炉子补充_燃料_。",
+
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.summary": "一块适合棕色蘑菇生长的秸秆压块。",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.condition1": "当佩戴于手部栏位时",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.behaviour1": "利用体温促进_蘑菇生长_。",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.condition2": "当另一只手持刀时",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.behaviour2": "长按右键收获蘑菇。",
+
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.summary": "一块适合红色蘑菇生长的秸秆压块。",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.condition1": "当佩戴于手部栏位时",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.behaviour1": "利用体温促进_蘑菇生长_。",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.condition2": "当另一只手持刀时",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.behaviour2": "长按右键收获蘑菇。",
+
+  "item.frostedresearch.quill_and_ink.tooltip.summary": "一支简陋的笔，但足以撰写_高级研究论文_。",
+  "item.frostedresearch.charcoal.tooltip.summary": "一块用于涂写_简易研究论文_的碳条。",
+
+  "block.frostedresearch.drawing_desk.tooltip.summary": "一张舒适的木桌，适合书写、绘图，也可趴着打盹。",
+  "block.frostedresearch.drawing_desk.tooltip.condition1": "在双手温暖的时候右击时",
+  "block.frostedresearch.drawing_desk.tooltip.behaviour1": "打开_科学研究_界面。",
+
+  "block.frostedresearch.mechanical_calculator.tooltip.summary": "由旋转动力驱动的优雅_计算机_。",
+  "block.frostedresearch.mechanical_calculator.tooltip.condition1": "当连接64 RPM旋转动力时",
+  "block.frostedresearch.mechanical_calculator.tooltip.behaviour1": "生成_研究点数_。",
+  "block.frostedresearch.mechanical_calculator.tooltip.condition2": "当运作时右击",
+  "block.frostedresearch.mechanical_calculator.tooltip.behaviour2": "为_当前研究_收集_研究点数_。",
+  "block.frostedresearch.mechanical_calculator.tooltip.condition3": "当佩戴护目镜检查时",
+  "block.frostedresearch.mechanical_calculator.tooltip.behaviour3": "显示_工作状态_和_储存的研究点数_。",
+
+  "block.frostedheart.steam_core.tooltip.summary": "利用高压蒸汽提供机械应力的小型蒸汽引擎。",
+  "block.frostedheart.steam_core.tooltip.condition1": "当连接高压蒸汽时",
+  "block.frostedheart.steam_core.tooltip.behaviour1": "提供一定量的应力。",
+  "block.frostedheart.steam_core.tooltip.condition2": "当压力过低时",
+  "block.frostedheart.steam_core.tooltip.behaviour2": "停止运作。",
+
+  "block.frostedheart.cooled_magma_block.tooltip.summary": "一块_冷却的_岩浆块。",
+  "block.frostedheart.cooled_magma_block.tooltip.condition1": "当在熔岩中浸泡足够长时间后",
+  "block.frostedheart.cooled_magma_block.tooltip.behaviour1": "会重新加热。",
+
+  "block.minecraft.magma_block.tooltip.summary": "一块_炽热的_岩浆块。",
+  "block.minecraft.magma_block.tooltip.condition1": "当未浸泡在熔岩中时",
+  "block.minecraft.magma_block.tooltip.behaviour1": "会逐渐冷却。",
+
+  "block.frostedheart.thin_ice.tooltip.summary": "一层脆弱的冰面。",
+
+  "item.frostedheart.makeshift_knife.tooltip.summary": "一把简单的刀，适合切割纤维、树叶和草。",
+
+  "block.minecraft.vine.tooltip.summary": "天然纤维，结实但潮湿。",
+
+  "block.stone_age.tanning_rack.tooltip.summary": "一个用木棍搭建的简易晒皮架。",
+  "block.stone_age.tanning_rack.tooltip.condition1": "右击，手持待鞣制的物品。",
+  "block.stone_age.tanning_rack.tooltip.behaviour1": "右键使用 _燧石加工刀_ 开始鞣制。",
+
+  "block.stone_age.fishing_net.tooltip.summary": "一个用于捕捉小型水下生物的简易陷阱。",
+  "block.stone_age.fishing_net.tooltip.condition1": "当放置在河流或海洋群系并完全浸入水中时",
+  "block.stone_age.fishing_net.tooltip.behaviour1": "用_网_捕捉不走幸的水下猎物。",
+
+  "item.kubejs.activated_carbon.tooltip.summary": "用木炭在蒸汽充能器上处理获得。",
+
+  "block.minecraft.campfire.tooltip.summary": "一个基础的火堆，可用来取暖和烹饪。",
+  "block.minecraft.campfire.tooltip.condition1": "将燃料丢入火堆时。",
+  "block.minecraft.campfire.tooltip.behaviour1": "燃料会储存在火堆中。",
+  "block.minecraft.campfire.tooltip.condition2": "被点燃时。",
+  "block.minecraft.campfire.tooltip.behaviour2": "保持温和火焰，用于烹饪和休息。",
+
+  "item.frostedresearch.rubbing_tool.tooltip.summary": "用于自动收集_研究点数_的记录簿。",
+  "item.frostedresearch.rubbing_tool.tooltip.condition1": "当开始研究后放入绘图台检验时",
+  "item.frostedresearch.rubbing_tool.tooltip.behaviour1": "和_当前研究_进行绑定。",
+  "item.frostedresearch.rubbing_tool.tooltip.condition2": "当装载在机械手上时",
+  "item.frostedresearch.rubbing_tool.tooltip.behaviour2": "收集所对_计算器_内储存的_所有研究点数_，最多五次。",
+  "item.frostedresearch.rubbing_tool.tooltip.condition3": "当收集了一定研究点数后再次检验时",
+  "item.frostedresearch.rubbing_tool.tooltip.behaviour3": "将收集的研究点数作用到_当前研究_上。",
+
+  "block.minecraft.mud.tooltip.summary": "富含水分的粘稠土壤，常由各类冻土融化形成。",
+  "block.minecraft.mud.tooltip.condition1": "当用锄头右击时",
+  "block.minecraft.mud.tooltip.behaviour1": "消耗_副手_上的_生物质_将其复苏为泥土。",
+
+  "block.minecraft.dirt.tooltip.summary": "富含微生物的有机土壤，可以用于耕地。",
+  "block.minecraft.dirt.tooltip.condition1": "当长期暴露在零下土壤温度时",
+  "block.minecraft.dirt.tooltip.behaviour1": "凝结为冻土，并丧失所有微生物群落。",
+
+  "item.frostedheart.biomass.tooltip.summary": "富含氮的有机物质，通过堆肥桶发酵多余食物能方便获取。",
+
+  "item.frostedheart.basic_increasing_fertilizer.tooltip.summary": "有机肥料，可适度提高产量。",
+  "item.frostedheart.basic_increasing_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.basic_increasing_fertilizer.tooltip.behaviour1": "使土壤肥沃，对应作物产量提升至2倍。",
+
+  "item.frostedheart.basic_accelerated_fertilizer.tooltip.summary": "有机肥料，可适度加快生长速度。",
+  "item.frostedheart.basic_accelerated_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.basic_accelerated_fertilizer.tooltip.behaviour1": "使土壤肥沃，对应作物生长速度提升至2倍。",
+
+  "item.frostedheart.basic_preserved_fertilizer.tooltip.summary": "有机覆盖层，可适度保持土壤温度。",
+  "item.frostedheart.basic_preserved_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.basic_preserved_fertilizer.tooltip.behaviour1": "使土壤保温，对应作物不会死亡，并放宽生长温度下限5°C。",
+
+  "item.frostedheart.advanced_increasing_fertilizer.tooltip.summary": "高级肥料，可大幅提高产量。",
+  "item.frostedheart.advanced_increasing_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.advanced_increasing_fertilizer.tooltip.behaviour1": "使土壤肥沃，对应作物产量提升至3倍。",
+
+  "item.frostedheart.advanced_accelerated_fertilizer.tooltip.summary": "高级肥料，可大幅加快生长速度。",
+  "item.frostedheart.advanced_accelerated_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.advanced_accelerated_fertilizer.tooltip.behaviour1": "使土壤肥沃，对应作物生长速度提升至4倍。",
+
+  "item.frostedheart.advanced_preserved_fertilizer.tooltip.summary": "灵活的覆盖层，可大幅保持土壤温度。",
+  "item.frostedheart.advanced_preserved_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.advanced_preserved_fertilizer.tooltip.behaviour1": "使土壤保温，对应作物不会死亡，并放宽生长温度下限10°C。",
+
+  "item.frostedheart.ultimate_increasing_fertilizer.tooltip.summary": "现代肥料，可显著提高产量。",
+  "item.frostedheart.ultimate_increasing_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.ultimate_increasing_fertilizer.tooltip.behaviour1": "使土壤肥沃，对应作物产量提升至4倍。",
+
+  "item.frostedheart.ultimate_accelerated_fertilizer.tooltip.summary": "现代肥料，可显著加快生长速度。",
+  "item.frostedheart.ultimate_accelerated_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.ultimate_accelerated_fertilizer.tooltip.behaviour1": "使土壤肥沃，对应作物生长速度提升至8倍。",
+
+  "item.frostedheart.ultimate_preserved_fertilizer.tooltip.summary": "绝热覆盖层，可显著保持土壤温度。",
+  "item.frostedheart.ultimate_preserved_fertilizer.tooltip.condition1": "施用于农田或泥土时",
+  "item.frostedheart.ultimate_preserved_fertilizer.tooltip.behaviour1": "使土壤保温，对应作物不会死亡，并放宽生长温度下限20°C。"
+}
+  

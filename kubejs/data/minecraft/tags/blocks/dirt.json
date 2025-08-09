@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "frostedheart:rooted_dirt_permafrost",
+    "frostedheart:dirt_permafrost",
+    "frostedheart:coarse_dirt_permafrost"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "frostedheart:magnesium_dust"
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:magnesium_chloride",
+    "amount": 250
+  },
+  "result_fluid": {
+    "fluid": "frostedheart:chlorine",
+    "amount": 225
+  },
+  "time": 240
+}

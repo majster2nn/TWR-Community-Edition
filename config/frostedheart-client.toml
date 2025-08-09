@@ -1,0 +1,93 @@
+
+["Frosted HUD"]
+	#Enables The Winter Rescue HUD. THIS IS MODPACK CORE FEATURE, DISABLING IS NOT RECOMMENDED. 
+	enableHUD = true
+	#Enables the temperature orb overlay. 
+	enableTemperatureOrb = true
+	#Use Fahrenheit temperature instead of celsus.
+	useFahrenheit = false
+	#Position of the temperature orb in game screen. 
+	#Allowed Values: MIDDLE, TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT
+	renderTempOrbAtCenter = "MIDDLE"
+	#X Offset of the temperature orb. The anchor point is defined by the tempOrbPosition value. Only when you set tempOrbPosition to value other than MIDDLE will this value be used. 
+	#Range: -4096 ~ 4096
+	tempOrbOffsetX = 0
+	#Y Offset of the temperature orb. The anchor point is defined by the tempOrbPosition value. Only when you set tempOrbPosition to value other than MIDDLE will this value be used.  
+	#Range: -4096 ~ 4096
+	tempOrbOffsetY = 0
+	#Enables the waypoints rendering. 
+	enableWaypoint = true
+	#Enables the tips rendering. 
+	enableTip = true
+	#Radius of the Wheel Menu. 
+	#Range: > 60
+	wheelMenuRadius = 100
+
+["Frozen Effects"]
+	#Enables the frozen overlay when player is freezing. 
+	enableFrozenOverlay = true
+	#Enables the vignette when player is freezing. 
+	enableFrozenVignette = true
+	#Enables the vignette when player is too hot. 
+	enableHeatVignette = true
+	#Enables the breath particle when environment is cold. 
+	enableBreathParticle = true
+	#Enables the frozen sound when player is freezing. 
+	enableFrozenSound = true
+	#The binding offset of the UBO for the infrared view shader.
+	#Partial shaders and mods may occupy the position as well.
+	#We will use default offset (7) for some known mods here. However, it is not guaranteed to be always compatible with all mods / shaders.
+	#In this case, player have to modify the config to specify the offset.
+	#No worries, from my experience, offset 7 is compatible with 99% mods / shaders.
+	#Range: > 0
+	infraredViewUBOOffset = 7
+
+[Weather]
+	#Enables weather rendering changes.
+	weatherRenderChanges = true
+	#How dense the fog effect during a snowstorm is.
+	#Range: 0.0 ~ 1.0
+	fogDensity = 0.1
+	#This is the fog color during the day. It must be an RGB hex string.
+	#Range: 0 ~ 16777215
+	fogColorDay = 12566488
+	#This is the fog color during the night. It must be an RGB hex string.
+	#Range: 0 ~ 16777215
+	fogColorNight = 789529
+	#How visually dense the snow weather effect is. Normally, vanilla sets this to 5 with fast graphics, and 10 with fancy graphics.
+	#Range: 1 ~ 15
+	snowDensity = 10
+	#Enable snow weather sounds.
+	snowSounds = true
+	#Enable blizzard wind weather sounds.
+	windSounds = true
+	#Changes the sky renderer to one which does not render sunrise or sunset effects during a snowstorm.
+	skyRenderChanges = true
+	#How visually dense the snow weather effect is. Normally, vanilla sets this to 5 with fast graphics, and 10 with fancy graphics.
+	#Range: 1 ~ 15
+	blizzardDensity = 15
+
+[Scenario]
+	#Enables the scenario act hud rendering. 
+	renderScenario = true
+	#Enables Auto click when scenario requires
+	autoMode = true
+	#Tick before click when a click is required to progress
+	#Range: 0 ~ 500
+	autoModeInterval = 40
+	#Base text appear speed, actual speed may change by scenario if necessary, speed 1 is 0.5 character per tick.
+	#Range: 1.0E-6 ~ 100000.0
+	textSpeed = 1.0
+	#Scenario 2d content rendering quality, internal resolution=2^(config value)*1024, 2d contents are rendered on cpu, higher quality may cause slower rendering
+	#Range: 0 ~ 16
+	scenarioRenderQuality = 2
+	#Scenario rendering thread, Scenario screen are pre-rendered in seperate pool to prevent lag
+	#Range: 1 ~ 16
+	scenarioRenderThread = 2
+
+[other]
+	#Enable item tooltips
+	enableTooltips = true
+	#Enables shaderpack compatibility module, switch this off if your shader does not load correctly
+	enableShaderCompatibility = true
+

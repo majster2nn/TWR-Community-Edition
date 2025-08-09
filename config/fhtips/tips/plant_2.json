@@ -1,0 +1,20 @@
+{
+  "id": "plant_2",
+  "category": "tips.frostedheart.category.plant",
+  "nextTip": "soil_temperature",
+  "image": "twr_tips:textures/temperature_info.png",
+  "clickAction": "",
+  "clickActionContent": "",
+  "alwaysVisible": false,
+  "onceOnly": false,
+  "hide": false,
+  "pin": false,
+  "displayTime": 10000,
+  "fontColor": "FFC6FCFF",
+  "backgroundColor": "FF000000",
+  "contents": [
+    "tips.frostedheart.plant.title",
+    "tips.frostedheart.plant.desc2"
+  ],
+  "children": []
+}

@@ -1,0 +1,18 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "immersiveengineering:dust_aluminum"
+  },
+  "input": {
+    "item": "frostedheart:alumina_dust"
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:cryolite",
+    "amount": 100
+  },
+  "result_fluid": {
+    "fluid": "frostedheart:fluorine",
+    "amount": 240
+  },
+  "time": 240
+}

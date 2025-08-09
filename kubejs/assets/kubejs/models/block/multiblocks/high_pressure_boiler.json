@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/block",
+  "automatic_culling": false,
+  "flip_v": true,
+  "loader": "forge:obj",
+  "render_type":"cutout_mipped",
+  "model": "kubejs:models/block/multiblocks/high_pressure_boiler.obj",
+  "textures": {
+    "particle": "kubejs:block/multiblocks/high_pressure_boiler"
+  }
+}

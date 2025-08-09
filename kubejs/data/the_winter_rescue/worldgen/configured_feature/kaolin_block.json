@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:disk",
+  "config": {
+    "half_height": 1,
+    "radius": {
+      "type": "minecraft:constant",
+      "value": 1
+    },
+    "state_provider": {
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "frostedheart:kaolin_block"
+        }
+      },
+      "rules": []
+    },
+    "target": {
+      "type": "minecraft:matching_block_tag",
+      "tag": "minecraft:stone_ore_replaceables"
+    }
+  }
+}

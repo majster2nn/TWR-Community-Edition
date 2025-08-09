@@ -1,0 +1,15 @@
+{
+  "type": "frostedheart:remove_loot",
+  "removed": [
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "conditions": [
+    {
+      "condition": "frostedheart:temperature",
+      "temp": 10,
+      "compare": "lt"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "showAltDesc": true,
+  "points": 4000,
+  "insight": 1,
+  "clues": [
+    {
+      "type": "game",
+      "id": "e1b4f383d5e345ea",
+      "required": true,
+      "value": 0.25,
+      "level": 1
+    },
+    {
+      "type": "item",
+      "id": "c5d4328814d0411c",
+      "required": true,
+      "value": 0.25,
+      "item": {
+        "item": "frostedresearch:mechanical_calculator"
+      }
+    },
+    {
+      "type": "game",
+      "id": "dccec6b8dfba4031",
+      "value": 0.25,
+      "level": 1
+    },
+    {
+      "type": "item",
+      "id": "c63eed3e6f43436b",
+      "value": 0.2,
+      "consume": true,
+      "item": {
+        "count": 40,
+        "base_ingredient": {
+          "tag": "forge:coal_coke"
+        }
+      }
+    }
+  ],
+  "ingredients": [
+    {
+      "count": 16,
+      "base_ingredient": {
+        "item": "frostedheart:generator_ash"
+      }
+    },
+    {
+      "count": 8,
+      "base_ingredient": {
+        "item": "frostedheart:cast_iron_sheet"
+      }
+    },
+    {
+      "count": 4,
+      "base_ingredient": {
+        "item": "minecraft:paper"
+      }
+    },
+    {
+      "count": 6,
+      "base_ingredient": {
+        "tag": "forge:ingots/cast_iron"
+      }
+    }
+  ],
+  "icon": "frostedresearch:rubbing_tool",
+  "category": "frostedheart:ars",
+  "parents": [
+    "mechanical_calculator"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "immersiveengineering:mixer",
+  "inputs": [
+    {
+      "base_ingredient": {
+        "tag": "forge:dusts/sodium_chloride"
+      },
+      "count": 2
+    }
+  ],
+  "result": {
+    "fluid": "frostedheart:hydrochloric_acid",
+    "amount": 1000
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:fluidsulfuricacid",
+    "amount": 1000
+  },
+  "energy": 2000
+}

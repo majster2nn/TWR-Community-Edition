@@ -1,0 +1,23 @@
+{
+  "type": "immersiveengineering:mixer",
+  "inputs": [
+    {
+      "base_ingredient": {
+        "item": "frostedheart:cryolite_dust"
+      },
+      "count": 2
+    },
+    {
+      "item": "frostedheart:aluminium_hydroxide_dust"
+    }
+  ],
+  "result": {
+    "fluid": "frostedheart:cryolite",
+    "amount": 550
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:fluidsulfuricacid",
+    "amount": 550
+  },
+  "energy": 2000
+}

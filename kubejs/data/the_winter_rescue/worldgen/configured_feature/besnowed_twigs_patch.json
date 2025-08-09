@@ -1,0 +1,29 @@
+{
+  "type": "frostedheart:disk",
+  "config": {
+    "state_provider": {
+      "rules": [],
+      "fallback": {
+        "type": "minecraft:simple_state_provider",
+        "state": {
+          "Name": "frostedheart:besnowed_twigs",
+          "Properties": {}
+        }
+      }
+    },
+    "target": {
+      "type": "minecraft:matching_blocks",
+      "blocks": [
+        "minecraft:snow"
+      ]
+    },
+    "radius": {
+      "type": "minecraft:uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    },
+    "half_height": 1
+  }
+}

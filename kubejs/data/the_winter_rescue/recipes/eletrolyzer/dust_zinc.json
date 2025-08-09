@@ -1,0 +1,15 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "frostedheart:zinc_dust"
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:zinc_sulfate",
+    "amount": 250
+  },
+  "result_fluid": {
+    "fluid": "frostedheart:sulfuric_acid",
+    "amount": 450
+  },
+  "time": 240
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "the_winter_rescue:nature/frostbough_forest",
+    "the_winter_rescue:nature/ironwinter_hollow",
+    "the_winter_rescue:nature/frostpine_grove",
+    "the_winter_rescue:nature/scree_pine_grove"
+  ]
+}

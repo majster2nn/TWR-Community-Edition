@@ -1,0 +1,113 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = twr.menu.credits
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1745661172471
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:0f4634fe-30ca-47a0-a497-c76157365b1e-1745661151621] = [groups:][instances:]
+}
+
+menu_background {
+  color = #000000
+  background_type = drippy_color_background
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  source = [source:local]config/fancymenu_assets/twr_logo_title.png
+  repeat_texture = false
+  nine_slice_texture = false
+  nine_slice_texture_border_x = 5
+  nine_slice_texture_border_y = 5
+  element_type = image
+  instance_identifier = b326359b-9db7-4d3b-8edb-44a9032442ef1630689066314
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 0
+  auto_sizing_base_screen_height = 0
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -98
+  y = -88
+  width = 199
+  height = 50
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = 29d9a6d0-b2eb-4d32-8c57-80b1495c4533-1729998636278
+  [loading_requirement_container_meta:29d9a6d0-b2eb-4d32-8c57-80b1495c4533-1729998636278] = [groups:][instances:]
+}
+
+element {
+  interactable = true
+  source = ## Credits%n%%n%(In the order of first joining, not contribution size.)%n%%n%We are [__TeamMoeg__](www.teammoeg.com), a non-profit Minecraft Mods & Modpacks Development team, founded in 2018,%n%aimed to deliver high-quality, imaginative game experience and worlds unseen.%n%%n%- Progamming: YueSha, khjxiaogu, duck_egg, dashuaibia, goumo_g, yuqijun%n%- Art: Lyuuke, gomou_g, Dsanilin%n%- Building: Fu_Yang, OEIIO%n%- Design: YueSha, duck_egg, dashuaibia, khjxiaogu, Lyuuke, alphaGem, JackyWangMislantiaJnirvana%n%- Writing: YueSha%n%- Quality Assurance: asdfghjkl, shidi%n%- Operation: Evan, YueSha, khjxiaogu%n%%n%Localization:%n%- Chinese: TeamMoeg%n%- English: TeamMoeg, Jerzerak, AGmouse, sayyidyofa, alyashour, collin-marando%n%- Russian: Whitealbum0, EvilToasterDBU%n%%n%Contributors:%n%- Programming: LetterN, Huaji_Qinmi, ceary741, Gugusb, Winged-Hussars, ewoudje, IBlessus, Qi-Month, KilaBash, xkball%n%- Art: Heitao%n%- Building: nekocrane, GuardianWorld, Keisari, Lanshan%n%- Design: Lanshan%n%- Writing: ZXCZST, xxy, Lanshan%n%- Quality Assurance: Lethium, AiseyFox, Do_zi, YunYuewenwen, huntunbushihundu, SkySunshine%n%%n%Special Thanks:%n%- The Mojang Team for the game itself.%n%- The Forge & NeoForge Team for the modding platform.%n%- The TeamMoeg Community (www.teammoeg.com) for support and feedback.%n%- OpenGameArt (opengameart.org) for sound effects.%n%- Matthew Pablo (www.matthewpablo.com) for music.%n%- alcatraz (github.com/alcatrazEscapee) for Primal Winter inspiration.%n%- ChatGPT (openai.com) for certain illustrations.%n%%n%## Copyright%n%%n%Our original code is licensed under GNU General Public License 3.0.%n%%n%The Mods used in the projects are selected to be as open source as possible, but please check respective licenses.%n%a%n%The original assets are All Rights Reserved unless otherwise stated.
+  source_mode = direct
+  shadow = true
+  scale = 1.0
+  base_color = #FFFFFFFF
+  text_border = 2
+  line_spacing = 2
+  enable_scrolling = true
+  auto_line_wrapping = true
+  remove_html_breaks = true
+  code_block_single_color = #737373FF
+  code_block_multi_color = #565656FF
+  headline_line_color = #A9A9A9FF
+  separation_line_color = #A9A9A9FF
+  hyperlink_color = #0771FCFF
+  quote_color = #818181FF
+  quote_indent = 8.0
+  quote_italic = false
+  bullet_list_dot_color = #A9A9A9FF
+  bullet_list_indent = 8.0
+  bullet_list_spacing = 3.0
+  parse_markdown = true
+  element_type = text_v2
+  instance_identifier = fd4de029-e2cf-4a79-b47b-54b91cda3c9f-1730004917518
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 3024
+  auto_sizing_base_screen_height = 1746
+  sticky_anchor = false
+  anchor_point = bottom-centered
+  x = -134
+  y = -159
+  width = 277
+  height = 116
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 02990cf2-7150-42b3-aee0-7baad0d47038-1730004917518
+  [loading_requirement_container_meta:02990cf2-7150-42b3-aee0-7baad0d47038-1730004917518] = [groups:][instances:]
+}
+

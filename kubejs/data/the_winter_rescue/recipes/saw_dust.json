@@ -1,0 +1,16 @@
+{
+  "type": "caupona:food",
+  "heal": 2,
+  "sat": 0.1,
+  "items": [
+    {
+      "item": "frostedheart:sawdust"
+    },
+    {
+      "item": "immersiveengineering:dust_wood"
+    }
+  ],
+  "item": {
+    "item": "frostedheart:sawdust"
+  }
+}

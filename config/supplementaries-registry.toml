@@ -1,0 +1,93 @@
+
+#Here are configs that need reloading to take effect
+[initialization]
+
+	[initialization.general]
+		#Enable Creative Tab
+		creative_tab = true
+		#Enables custom Configured config screen
+		custom_configured_screen = false
+		#Set to false to disable custom dispenser behaviors (i.e: filling jars) if for some reason they are causing trouble
+		dispensers = false
+		#Creates a creative tab full of filled jars
+		jar_tab = false
+
+	[initialization.entities]
+		firefly = false
+
+	[initialization.blocks]
+		clock_block = true
+		speaker_block = true
+		sack = false
+		#WIP
+		laser_block = false
+		bellows = false
+		hanging_sign = false
+		bomb = false
+		#WIP
+		amethyst_arrow = false
+		cage = true
+		stone_tile = false
+		blaze_rod = false
+		bamboo_spikes = false
+		hourglass = true
+		raked_gravel = false
+		jar = true
+		stick = false
+		rope_arrow = false
+		checker_block = false
+		slingshot = false
+		wattle_and_daub = false
+		stone_lamp = false
+		cog_block = false
+		crank = false
+		copper_lantern = true
+		pancake = true
+		statue = true
+		iron_gate = false
+		bamboo_spikes_tipped = false
+		netherite_trapdoor = false
+		wrench = false
+		fodder = true
+		end_stone_lamp = false
+		globe = true
+		sconce = true
+		candelabra = false
+		timber_frame = false
+		spring_launcher = false
+		safe = false
+		sconce_lever = true
+		#WIP
+		present = false
+		sign_post = false
+		pedestal = false
+		blackboard = false
+		netherite_door = false
+		candle_holder = false
+		flag = true
+		flint_block = false
+		candy = true
+		rope = false
+		notice_board = true
+		redstone_illuminator = false
+		crimson_lantern = true
+		lock_block = false
+		flax = false
+		planter = true
+		wind_vane = true
+		item_shelf = false
+		turn_table = false
+		faucet = false
+		blackstone_lamp = false
+		daub = false
+		gold_trapdoor = false
+		feather_block = false
+		deepslate_lamp = false
+		magma_cream_block = false
+		goblet = false
+		sconce_green = false
+		flute = false
+		pulley_block = false
+		gold_door = false
+		shulker_shell = false
+

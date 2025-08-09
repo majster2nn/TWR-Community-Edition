@@ -1,0 +1,11 @@
+{
+  "type": "immersiveengineering:squeezer",
+  "result": {
+    "count": 1,
+    "item": "immersiveengineering:ingot_hop_graphite"
+  },
+  "input": {
+    "tag": "forge:storage_blocks/coal_coke"
+  },
+  "energy": 19200
+}

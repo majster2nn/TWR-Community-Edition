@@ -1,0 +1,18 @@
+{
+  "type": "charcoal_pit:barrel",
+  "item_in": {
+    "tag": "forge:dusts/wood"
+  },
+  "fluid_in": {
+    "fluid": "immersiveengineering:creosote",
+    "amount": 250
+  },
+  "item_out": {
+    "item": "kubejs:creosoted_sawdust"
+  },
+  "flags": 1,
+  "in_amount": 8,
+  "out_amount": 2,
+  "time": 200
+}
+

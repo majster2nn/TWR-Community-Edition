@@ -1,0 +1,16 @@
+{
+  "type": "charcoal_pit:barrel",
+  "item_in": {
+    "tag": "minecraft:planks"
+  },
+  "fluid_in": {
+    "fluid": "immersiveengineering:creosote",
+    "amount": 125
+  },
+  "item_out": {
+    "item": "immersiveengineering:treated_wood_horizontal"
+  },
+  "flags": 1,
+  "out_amount": 1,
+  "time": 1200
+}

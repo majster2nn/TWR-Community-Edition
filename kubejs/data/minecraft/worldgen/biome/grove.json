@@ -1,0 +1,158 @@
+{
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "creature_spawn_probability": 0.05,
+  "downfall": 0.8,
+  "effects": {
+    "fog_color": 14145761,
+    "mood_sound": {
+      "block_search_extent": 8,
+      "offset": 2,
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000
+    },
+    "music": {
+      "max_delay": 24000,
+      "min_delay": 12000,
+      "replace_current_music": false,
+      "sound": "minecraft:music.overworld.grove"
+    },
+    "sky_color": 10858685,
+    "water_color": 3750089,
+    "water_fog_color": 329011
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground",
+      "minecraft:lake_lava_surface"
+    ],
+    [
+      "minecraft:amethyst_geode"
+    ],
+    [
+      "minecraft:monster_room",
+      "minecraft:monster_room_deep"
+    ],
+    [],
+    [],
+    [
+      "minecraft:ore_dirt",
+      "minecraft:ore_gravel",
+      "minecraft:ore_granite_upper",
+      "minecraft:ore_granite_lower",
+      "minecraft:ore_diorite_upper",
+      "minecraft:ore_diorite_lower",
+      "minecraft:ore_andesite_upper",
+      "minecraft:ore_andesite_lower",
+      "minecraft:ore_tuff",
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma",
+      "minecraft:disk_sand",
+      "minecraft:disk_clay",
+      "minecraft:disk_gravel",
+      "minecraft:ore_emerald"
+    ],
+    [
+      "minecraft:ore_infested"
+    ],
+    [
+      "minecraft:spring_lava"
+    ],
+    [
+      "the_winter_rescue:nature/sparse_moss_patch",
+      "the_winter_rescue:nature/sparse_pine_bushes",
+      "the_winter_rescue:nature/sparse_bare_spruce_tree",
+      "the_winter_rescue:grove/tall/trees_tall",
+      "the_winter_rescue:grove/mid/trees_mid",
+      "the_winter_rescue:grove/small/trees_small",
+      "the_winter_rescue:grove/tiny/trees_tiny",
+      "minecraft:glow_lichen"
+    ],
+    [
+      "minecraft:freeze_top_layer",
+      "the_winter_rescue:snowy/layer/first",
+      "the_winter_rescue:snowy/layer/second",
+      "the_winter_rescue:snowy/layer/third",
+      "the_winter_rescue:snowy/fix_snow",
+      "the_winter_rescue:snowy/fix_grass"
+    ]
+  ],
+  "has_precipitation": true,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [
+
+    ],
+    "axolotls": [],
+    "creature": [
+      {
+        "type": "minecraft:wolf",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
+      },
+      {
+        "type": "minecraft:rabbit",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 2
+      },
+      {
+        "type": "minecraft:fox",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
+      },
+      {
+        "type": "stone_age:fowl",
+        "maxCount": 3,
+        "minCount": 1,
+        "weight": 1
+      },
+      {
+        "type": "stone_age:deer",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
+      },
+      {
+        "type": "stone_age:auroch",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 1
+      }
+    ],
+    "misc": [],
+    "monster": [
+
+    ],
+    "underground_water_creature": [
+      {
+        "type": "minecraft:glow_squid",
+        "maxCount": 1,
+        "minCount": 1,
+        "weight": 10
+      }
+    ],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": -0.2
+}

@@ -1,0 +1,25 @@
+StartupEvents.registry('fluid', event => {
+    event.create('high_pressure_steam')
+        .thinTexture(0xBDBDBD)
+        .bucketColor(0xBDBDBD)
+        .displayName('High Pressure Steam')
+        .noBlock() 
+
+    event.create('low_pressure_steam')
+        .thinTexture(0xBDBDBD)
+        .bucketColor(0xBDBDBD)
+        .displayName('Low Pressure Steam')
+        .noBlock() 
+
+    event.create('normalized_high_pressure_steam')
+        .thinTexture(0xBDBDBD)
+        .bucketColor(0xBDBDBD)
+        .displayName('Normalized High Pressure Steam')
+        .noBlock() 
+
+    event.create('normalized_low_pressure_steam')
+        .thinTexture(0xBDBDBD)
+        .bucketColor(0xBDBDBD)
+        .displayName('Normalized Low Pressure Steam')
+        .noBlock() 
+})

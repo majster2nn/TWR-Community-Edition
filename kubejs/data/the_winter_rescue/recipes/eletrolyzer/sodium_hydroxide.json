@@ -1,0 +1,18 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "frostedheart:sodium_hydroxide_dust"
+  },
+  "input": {
+    "tag": "forge:dusts/sodium_chloride"
+  },
+  "fluid": {
+    "tag": "forge:water",
+    "amount": 500
+  },
+  "result_fluid": {
+    "fluid": "frostedheart:chlorine",
+    "amount": 250
+  },
+  "time": 240
+}

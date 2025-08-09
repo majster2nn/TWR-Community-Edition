@@ -1,0 +1,16 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "immersiveengineering:dust_iron",
+    "count": 3
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:ferric_chloride",
+    "amount": 500
+  },
+  "result_fluid": {
+    "fluid": "frostedheart:chlorine",
+    "amount": 450
+  },
+  "time": 240
+}

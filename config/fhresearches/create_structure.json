@@ -1,0 +1,54 @@
+{
+  "icon": "create:gantry_shaft",
+  "category": "frostedheart:production",
+  "parents": [
+    "steam_powerd"
+  ],
+  "clues": [
+    {
+      "type": "game",
+      "value": 0.65,
+      "id": "121a09d3594f4163",
+      "required": true,
+      "level": 1
+    },
+    {
+      "type": "game",
+      "value": 0.35,
+      "id": "3e8f0631d17949fa",
+      "level": 1
+    }
+  ],
+  "ingredients": [
+    {
+      "count": 8,
+      "base_ingredient": {
+        "item": "minecraft:redstone"
+      }
+    }
+  ],
+  "effects": [
+    {
+      "type": "recipe",
+      "id": "d76e3f1a415f45a9",
+      "item": "create:gantry_shaft"
+    },
+    {
+      "type": "recipe",
+      "id": "668cc07c7c504f1a",
+      "item": "create:clockwork_bearing"
+    },
+    {
+      "type": "recipe",
+      "id": "eae55cce82b941a4",
+      "item": "create:super_glue"
+    },
+    {
+      "type": "recipe",
+      "id": "294543cb1944798",
+      "item": "create:gantry_carriage"
+    }
+  ],
+  "points": 2000,
+  "showAltDesc": true
+}

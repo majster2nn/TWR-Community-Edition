@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "the_winter_rescue:nature/destroyed_marsh",
+    "the_winter_rescue:nature/glacier",
+    "the_winter_rescue:nature/slabback_massif",
+    "the_winter_rescue:nature/frostbough_forest",
+    "the_winter_rescue:nature/ironwinter_hollow",
+    "the_winter_rescue:nature/snowy_shrubland",
+    "the_winter_rescue:nature/frostpine_grove",
+    "the_winter_rescue:nature/scree_pine_grove",
+    "the_winter_rescue:nature/destroyed_birch_forest",
+    "the_winter_rescue:destroyed_forest",
+    "minecraft:jagged_peaks",
+    "minecraft:frozen_peaks",
+    "minecraft:grove",
+    "minecraft:snowy_slopes",
+    "minecraft:snowy_taiga",
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes",
+    "the_winter_rescue:active_volcano",
+    "the_winter_rescue:alpine_glacier",
+    "the_winter_rescue:glacial_ices",
+    "the_winter_rescue:glacial_lakes",
+    "the_winter_rescue:ice_cap",
+    "the_winter_rescue:tidewater_glacier",
+    "the_winter_rescue:tundra",
+    "the_winter_rescue:valley_glacier",
+    "the_winter_rescue:volcanic_hills"
+  ]
+}

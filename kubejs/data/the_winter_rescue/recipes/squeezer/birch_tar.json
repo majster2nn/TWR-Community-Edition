@@ -1,0 +1,15 @@
+{
+  "type": "immersiveengineering:squeezer",
+  "fluid": {
+    "fluid": "frostedheart:tar",
+    "amount": 50
+  },
+  "result": {
+    "item": "frostedheart:biomass",
+    "count": 2
+  },
+  "input": {
+    "item": "minecraft:birch_log"
+  },
+  "energy": 12800
+}

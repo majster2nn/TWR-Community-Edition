@@ -1,0 +1,35 @@
+{
+	id: "0566391630E2A62E"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{
+			item: {
+				Count: 1
+				id: "frostedheart:makeshift_axe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "frostedheart:makeshift_pickaxe"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+		{
+			item: {
+				Count: 1
+				id: "frostedheart:makeshift_shovel"
+				tag: {
+					Damage: 0
+				}
+			}
+		}
+	]
+	title: "{reward_table.twr.0566391630E2A62E.title}"
+}

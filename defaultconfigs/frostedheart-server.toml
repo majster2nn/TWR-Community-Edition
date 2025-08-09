@@ -1,0 +1,123 @@
+
+[Temperature]
+	#Temperature System difficulty
+	#easy=Strong body
+	#normal=Average
+	#hard=Reality
+	#hardcore=Sick body
+	#Allowed Values: easy, normal, hard, hardcore
+	temperatureDifficulty = "normal"
+	#Modifier of body temperature change speed, Adjust this higher only when you lower the update interval respectively This does not affect hypothermia temperature.
+	#Range: 0.0 ~ 20.0
+	temperatureChangeRate = 0.5
+	#The interval of temperature update in ticks.
+	#Range: > 1
+	temperatureUpdateIntervalTicks = 20
+	#The duration of the wet effect applied in water in ticks.
+	#Range: > 1
+	wetEffectDuration = 100
+	#The multiplier of the wet effect duration when player is wearing clothes.
+	#finalDuration = wetEffectDuration * wetClothesDurationMultiplier
+	#Range: 1 ~ 1000
+	wetClothesDurationMultiplier = 4
+	#Below which -dayNightTempModifier will be used.
+	#Range: 0 ~ 15
+	tempSkyLightThreshold = 5
+	#The temperature modifier when player is in snow weather.
+	#Range: -100 ~ 100
+	snowTempModifier = -5
+	#The temperature modifier when player is in blizzard weather.
+	#Range: -100 ~ 100
+	blizzardTempModifier = -10
+	#This is the amplitude of day night temperature cycle.
+	#The actual temperature modifier is sin(time) * dayNightTempAmplitude.
+	#Note that when sky light is below tempSkyLightThreshold, the modifier will be dayNightTempAmplitude * -1.
+	#Note that when snow or blizzard occurs, amplitude is reduced to 1/5 as sunlight is blocked.
+	#Ref: https://en.wikipedia.org/wiki/Diurnal_air_temperature_variation
+	#Such amplitude could be up to 50 Celsius in extreme.
+	#More humid, more stable. More dry, more extreme.
+	#We set default to be 10, as arctic is quite stable.
+	#Range: -100 ~ 100
+	dayNightTempAmplitude = 10
+	#The temperature modifier when player is on fire.
+	#Range: 0 ~ 1000
+	onFireTempModifier = 150
+	#The heat update when player is hurt.
+	#Range: 0.0 ~ 1.0
+	hurtingHeatUpdate = 0.1
+	#The minimum body temperature change relative to 37.
+	#Range: -100 ~ 100
+	minBodyTempChange = -10
+	#The maximum body temperature change relative to 37.
+	#Range: -100 ~ 100
+	maxBodyTempChange = 10
+	#The number of threads used for enviroment(block) temperature update, set to 0 disables multithreading, default to min(processors/2,2)
+	#Range: 0 ~ 16
+	environmentTempMinTicks = 2
+	#Whether should an initial climate event added to newly created world: a snowstorm after three days
+	addInitClimate = true
+	#The heat exchange time constant between player and environment.
+	#Definition: The value has unit in seconds.
+	#It represents the theoretical time it takes for a naked player without self-heating
+	#to reach the mildest hypothermia (36C body temperature)
+	#when exposed to an effective environment temperature of heatExchangeTempConstant below 37C.
+	#Range: > 0
+	heatExchangeTimeConstant = 1000
+	#The heat exchange temperature constant between player and environment.
+	#Check the comment on heatExchangeTimeConstant for what is this.
+	#Range: 0.0 ~ 2.147483647E9
+	heatExchangeTempConstant = 10.0
+
+["Water & Nutrition"]
+	#finalReducingValue = basicValue * waterReducingRate.(DoubleValue)
+	#Range: 0.0 ~ 1000.0
+	waterReducingRate = 1.0
+	#It is the weakness effect amplifier of the effect punishment when player's water level is too low. -1 means canceling this effect. Default:0
+	#Range: -1 ~ 999999
+	weaknessEffectAmplifier = 0
+	#It decides if players' water level would reset in death.
+	resetWaterLevelInDeath = true
+	#The rate of nutrition consumption.
+	#Range: 0.0 ~ 10.0
+	nutritionConsumptionRate = 0.0003
+	#The rate of nutrition gain by eating food.
+	#Range: 0.0 ~ 100.0
+	nutritionGainRate = 0.0003
+
+[Worldgen]
+	#Enables snow accumulation during snow weather.
+	enableSnowAccumulationDuringWeather = true
+	#The the inverse of this value is the probability of snow adding one layer during each tick.
+	#Range: > 1
+	snowAccumulationDifficulty = 16
+	#Biomes that are not considered winter biomes.
+	nonWinterBiomes = ["the_winter_rescue:active_volcano", "the_winter_rescue:volcanic_hills", "minecraft:nether_wastes", "minecraft:crimson_forest", "minecraft:warped_forest", "minecraft:basalt_deltas", "minecraft:soul_sand_valley", "minecraft:end_barrens", "minecraft:end_highlands", "minecraft:end_midlands", "minecraft:the_end", "minecraft:the_void", "minecraft:frozen_ocean", "minecraft:deep_frozen_ocean"]
+	#If true, the 'nonWinterBiomes' config option will be interpreted as a list of winter biomes, and all others will be ignored.
+	invertNonWinterBiomes = false
+	#Enables snow accumulation during world generation.
+	enableSnowAccumulationDuringWorldgen = false
+
+["Surrounding Temperature Simulation"]
+	#The simulator is used to simulate the temperature of the surrounding environment. Not recommended to change.
+	#The range of the simulation.
+	#Range: 1 ~ 8
+	simulationRange = 8
+	#The number of divisions of unit square in the simulation.
+	#Number of particles is cubic of this value.
+	#If your server lags, you can reduce this value.
+	#Range: 1 ~ 100
+	simulationDivision = 10
+	#The initial speed of the particles in the simulation.
+	#Range: 0.009999999776482582 ~ 1.0
+	simulationParticleInitialSpeed = 0.4000000059604645
+
+[Miscellaneous]
+	#Always keep inventory on death on every dimension and world
+	alwaysKeepInventory = false
+	#Instead of keeping all inventory, only keep equipments, curios and quickbar tools on death
+	keepEquipments = true
+	#Fixes JEI and Bukkit server compat issue, don't touch unless you know what you are doing.
+	fixEssJeiIssue = true
+	#Special array of players
+	"Player Whitelist" = ["YueSha", "duck_egg", "Evan", "dashuaibia", "khjxiaogu", "Lyuuke", "goumo_g", "alphaGem", "JackyWang", "Fu_Yang", "asdfghjkl", "03110", "shidi", "yuqijun", "Dsanilen", "Lanshan", "Dev"]
+

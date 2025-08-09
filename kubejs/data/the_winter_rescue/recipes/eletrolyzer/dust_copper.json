@@ -1,0 +1,15 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "immersiveengineering:dust_copper"
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:copper_chloride",
+    "amount": 250
+  },
+  "result_fluid": {
+    "fluid": "frostedheart:chlorine",
+    "amount": 225
+  },
+  "time": 240
+}

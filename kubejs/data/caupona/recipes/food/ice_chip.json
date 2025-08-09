@@ -1,0 +1,9 @@
+{
+  "type": "caupona:aspic_melt",
+  "amount": 250,
+  "aspic": {
+    "item": "frostedheart:ice_chip"
+  },
+  "fluid": "minecraft:water",
+  "time": 20
+}

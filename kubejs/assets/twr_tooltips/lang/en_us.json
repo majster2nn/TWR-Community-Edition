@@ -1,0 +1,271 @@
+{
+  "item.frostedheart.hand_stove.tooltip.summary": "A _Portable Stove_ that burns fuel to _Warm Body_.",
+  "item.frostedheart.hand_stove.tooltip.condition1": "When Placed At Main Hand",
+  "item.frostedheart.hand_stove.tooltip.behaviour1": "Warms the _Hands_",
+  "item.frostedheart.hand_stove.tooltip.condition2": "When Placed At Offhand",
+  "item.frostedheart.hand_stove.tooltip.behaviour2": "Warms the _Torso_",
+  "item.frostedheart.hand_stove.tooltip.condition3": "When Crafted with Coal Stick or Charcoal Stick",
+  "item.frostedheart.hand_stove.tooltip.behaviour3": "Refills the stove with _Fuel_.",
+  "item.frostedheart.hand_stove.tooltip.condition4": "When Finished Burning",
+  "item.frostedheart.hand_stove.tooltip.behaviour4": "Right-click the ground to empty ashes.",
+
+  "item.frostedheart.thermos.tooltip.summary": "A _Container_ to store _Hot Fluid_.",
+  "item.frostedheart.thermos.tooltip.condition1": "When R-Clicked On Liquid Container",
+  "item.frostedheart.thermos.tooltip.behaviour1": "Fills itself with stored liquid.",
+  "item.frostedheart.thermos.tooltip.condition2": "When R-Clicked On Water Block",
+  "item.frostedheart.thermos.tooltip.behaviour2": "Fills itself with _Unpurified Water_.",
+  "item.frostedheart.thermos.tooltip.condition3": "When Carrying Fluids",
+  "item.frostedheart.thermos.tooltip.behaviour3": "Insulates the fluid to keep it _Hot_.",
+  "item.frostedheart.thermos.tooltip.condition4": "When Shift-R-Clicked On Any Block",
+  "item.frostedheart.thermos.tooltip.behaviour4": "Empties itself.",
+
+  "item.frostedheart.rusted_metal.tooltip.summary": "Metal oxidized into its natural state.",
+  "item.frostedheart.rusted_metal.tooltip.condition1": "When Smelted",
+  "item.frostedheart.rusted_metal.tooltip.behaviour1": "Turns into its _Original Form_.",
+
+  "item.frostedheart.snowshoes.tooltip.summary": "A pair of shoes for travelling on snow_.",
+  "item.frostedheart.snowshoes.tooltip.condition1": "When Worn While Walking on Powdered Snow",
+  "item.frostedheart.snowshoes.tooltip.behaviour1": "Prevents the wearer from _sinking_.",
+  "item.frostedheart.snowshoes.tooltip.condition2": "When Worn While Walking on Snow",
+  "item.frostedheart.snowshoes.tooltip.behaviour2": "Increases _movement speed_.",
+
+  "item.frostedheart.ice_skates.tooltip.summary": "A pair of skates for travelling on ice.",
+  "item.frostedheart.ice_skates.tooltip.condition1": "When Worn While Walking on Ice",
+  "item.frostedheart.ice_skates.tooltip.behaviour1": "Increases _movement speed_.",
+
+  "item.kubejs.damaged_gpu.tooltip.summary": "A _damaged GPU_ used to mine cryptocurrency.",
+  "item.kubejs.damaged_gpu.tooltip.condition1": "When Used In Drawing Desk",
+  "item.kubejs.damaged_gpu.tooltip.behaviour1": "Grants Significant _Insight_.",
+
+  "item.frostedheart.energy_core.tooltip.summary": "A core that glows.",
+  "item.frostedheart.energy_core.tooltip.condition1": "When Used In Research",
+  "item.frostedheart.energy_core.tooltip.behaviour1": "Grants the knowledge for building a _Generator_.",
+
+  "item.kubejs.damaged_electric_motor.tooltip.summary": "A damaged electric motor of a little robot.",
+  "item.kubejs.damaged_electric_motor.tooltip.condition1": "When Inspected In Drawing Desk",
+  "item.kubejs.damaged_electric_motor.tooltip.behaviour1": "Grants _Insight_.",
+
+  "item.kubejs.damaged_circuit_board.tooltip.summary": "A damaged circuit board.",
+  "item.kubejs.damaged_circuit_board.tooltip.condition1": "When Inspected In Drawing Desk",
+  "item.kubejs.damaged_circuit_board.tooltip.behaviour1": "Grants _Insight_.",
+
+  "item.kubejs.burnt_circuit_board.tooltip.summary": "A burned circuit board once belonging to a blasting machinery.",
+  "item.kubejs.burnt_circuit_board.tooltip.condition1": "When Inspected In Drawing Desk",
+  "item.kubejs.burnt_circuit_board.tooltip.behaviour1": "Grants _Insight_.",
+
+  "item.kubejs.damaged_camera.tooltip.summary": "A damaged camera of a science journalist.",
+  "item.kubejs.damaged_camera.tooltip.condition1": "When Inspected In Drawing Desk",
+  "item.kubejs.damaged_camera.tooltip.behaviour1": "Grants _Insight_.",
+
+  "item.kubejs.broken_robot_1.tooltip.summary": "A line of small characters is carved at the place where it was discovered: \"What is my purpose?\"",
+  "item.kubejs.broken_robot_1.tooltip.condition1": "When Inspected In Drawing Desk",
+  "item.kubejs.broken_robot_1.tooltip.behaviour1": "Grants Significant _Insight_.",
+
+  "item.kubejs.broken_robot_2.tooltip.summary": "A line of small characters is carved at the place where it was discovered: \"What is consciousness?\"",
+  "item.kubejs.broken_robot_2.tooltip.condition1": "When Inspected In Drawing Desk",
+  "item.kubejs.broken_robot_2.tooltip.behaviour1": "Grants Significant _Insight_.",
+
+  "item.frostedresearch.intelligence.tooltip.summary": "A collection of scattered records from various places, containing unpublished experimental data, local rumors, and unverified technical drafts. It may be incomplete, but it’s enough to spark new ideas.",
+  "item.frostedresearch.intelligence.tooltip.condition1": "When Inspected In Drawing Desk",
+  "item.frostedresearch.intelligence.tooltip.behaviour1": "Grants Significant _Insight_.",
+
+  "item.frostedheart.copper_pro_pick.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.copper_pro_pick.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.copper_pro_pick.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.iron_pro_pick.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.iron_pro_pick.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.iron_pro_pick.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.steel_pro_pick.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.steel_pro_pick.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.steel_pro_pick.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.copper_core_spade.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.copper_core_spade.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.copper_core_spade.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.iron_core_spade.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.iron_core_spade.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.iron_core_spade.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.steel_core_spade.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.steel_core_spade.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.steel_core_spade.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.copper_geologists_hammer.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.copper_geologists_hammer.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.copper_geologists_hammer.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.iron_geologists_hammer.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.iron_geologists_hammer.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.iron_geologists_hammer.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.steel_geologists_hammer.tooltip.summary": "A specialized tool used for geological exploration and mineral discovery.",
+  "item.frostedheart.steel_geologists_hammer.tooltip.condition1": "Right-click On the Ground While Holding It With Your Main Hand.",
+  "item.frostedheart.steel_geologists_hammer.tooltip.behaviour1": "Exploring the general ore distribution in a certain area.",
+
+  "item.frostedheart.temperature_probe.tooltip.summary": "A handy tool for understanding block temperature.",
+  "item.frostedheart.temperature_probe.tooltip.condition1": "When Place On Any Hand",
+  "item.frostedheart.temperature_probe.tooltip.behaviour1": "Displays the _Temperature Modifier_ of the _Targeting Block_.",
+
+  "item.frostedheart.soil_thermometer.tooltip.summary": "A must-have tool for farmers measuring soil temperature.",
+  "item.frostedheart.soil_thermometer.tooltip.condition1": "When Used On A Block",
+  "item.frostedheart.soil_thermometer.tooltip.behaviour1": "Displays _Soil Temperature_.",
+  "item.frostedheart.soil_thermometer.tooltip.condition2": "When Placed On Hand",
+  "item.frostedheart.soil_thermometer.tooltip.behaviour2": "Displays the _Growth Temperature Requirements_ of the _Targeting Plant_.",
+
+  "item.frostedheart.weather_radar.tooltip.summary": "A device that forecasts the weather for the next few days while you carry it with you.",
+  "item.frostedheart.weather_radar.tooltip.condition1": "When Carried With You",
+  "item.frostedheart.weather_radar.tooltip.behaviour1": "Forecasts The Weather For The Next Few Days.",
+
+  "item.frostedheart.weather_helmet.tooltip.summary": "A helmet that can forecast the weather in the next few days.",
+  "item.frostedheart.weather_helmet.tooltip.condition1": "When Wearing",
+  "item.frostedheart.weather_helmet.tooltip.behaviour1": "Forecasts The Weather For The Next Few Days.",
+
+  "item.frostedheart.mercury_body_thermometer.tooltip.summary": "Mercury-infused glass tube to measure _Body Temperature_.",
+  "item.frostedheart.mercury_body_thermometer.tooltip.condition1": "When Used On Oneself",
+  "item.frostedheart.mercury_body_thermometer.tooltip.behaviour1": "Displays _Core Body Temperature_.",
+
+  "item.frostedheart.leather_water_bag.tooltip.summary": "A liquid container made from waterproof leather.",
+  "item.frostedheart.leather_water_bag.tooltip.condition1": "When R-Clicked On Liquid Container",
+  "item.frostedheart.leather_water_bag.tooltip.behaviour1": "Fills itself with stored liquid.",
+  "item.frostedheart.leather_water_bag.tooltip.condition2": "When R-Clicked On Water Block",
+  "item.frostedheart.leather_water_bag.tooltip.behaviour2": "Fills itself with _Unpurified Water_.",
+  "item.frostedheart.leather_water_bag.tooltip.condition3": "When Shift-R-Clicked On Any Block",
+  "item.frostedheart.leather_water_bag.tooltip.behaviour3": "Empties itself.",
+
+  "item.frostedheart.iron_bottle.tooltip.summary": "A liquid container made from hard metal.",
+  "item.frostedheart.iron_bottle.tooltip.condition1": "When R-Clicked On Liquid Container",
+  "item.frostedheart.iron_bottle.tooltip.behaviour1": "Fills itself with stored liquid.",
+  "item.frostedheart.iron_bottle.tooltip.condition2": "When R-Clicked On Water Block",
+  "item.frostedheart.iron_bottle.tooltip.behaviour2": "Fills itself with _Unpurified Water_.",
+  "item.frostedheart.iron_bottle.tooltip.condition3": "When Shift-R-Clicked On Any Block",
+  "item.frostedheart.iron_bottle.tooltip.behaviour3": "Empties itself.",
+
+  "item.frostedheart.coal_stick.tooltip.summary": "A stick of coal that burns gently.",
+  "item.frostedheart.coal_stick.tooltip.condition1": "When Crafted With Hand Stove.",
+  "item.frostedheart.coal_stick.tooltip.behaviour1": "Refills The Stove With Fuel.",
+
+  "item.frostedheart.charcoal_stick.tooltip.summary": "A stick of charcoal that burns gently.",
+  "item.frostedheart.charcoal_stick.tooltip.condition1": "When Crafted With Hand Stove.",
+  "item.frostedheart.charcoal_stick.tooltip.behaviour1": "Refills The Stove With Fuel.",
+
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.summary": "A straw briquette suitable for growing mushrooms.",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.condition1": "When Wearing In Hand Slot",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.behaviour1": "Uses body temperature to promote mushroom growth.",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.condition2": "When Holding With Knife On Other Hand",
+  "item.frostedheart.straw_briquette_brown_mushroom.tooltip.behaviour2": "Hold R-Click to harvest mushroom.",
+
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.summary": "A straw briquette suitable for growing mushrooms.",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.condition1": "When Wearing In Hand Slot",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.behaviour1": "Uses body temperature to promote mushroom growth.",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.condition2": "When Holding With Knife On Other Hand",
+  "item.frostedheart.straw_briquette_red_mushroom.tooltip.behaviour2": "Hold R-Click to harvest mushroom.",
+
+  "item.frostedresearch.quill_and_ink.tooltip.summary": "A crude pen, but suffices to write _Advanced Research Papers_.",
+
+  "item.frostedresearch.charcoal.tooltip.summary": "A piece of carbon to scratch _Simple Research Papers_.",
+
+  "block.frostedresearch.drawing_desk.tooltip.summary": "A comfortable wooden desk suitable for writing, drawing, or even taking a nap on.",
+  "block.frostedresearch.drawing_desk.tooltip.condition1": "When right-clicked with warm hands",
+  "block.frostedresearch.drawing_desk.tooltip.behaviour1": "Opens the _Scientific Research_ interface.",
+
+  "block.frostedresearch.mechanical_calculator.tooltip.summary": "An elegant _Computer_ powered by rotational power.",
+  "block.frostedresearch.mechanical_calculator.tooltip.condition1": "When Connected With 64 RPM Rotational Power",
+  "block.frostedresearch.mechanical_calculator.tooltip.behaviour1": "Generates _Research Points_.",
+  "block.frostedresearch.mechanical_calculator.tooltip.condition2": "When R-Clicked While Working",
+  "block.frostedresearch.mechanical_calculator.tooltip.behaviour2": "Collects _Research Points_ for _Current Research_.",
+  "block.frostedresearch.mechanical_calculator.tooltip.condition3": "When Inspected With Goggles",
+  "block.frostedresearch.mechanical_calculator.tooltip.behaviour3": "Shows _Working Status_ and _Stored Research Points_.",
+
+  "block.frostedheart.steam_core.tooltip.summary": "A small steam engine that uses high-pressure steam to provide mechanical stress.",
+  "block.frostedheart.steam_core.tooltip.condition1": "When Connected to High Pressure Steam",
+  "block.frostedheart.steam_core.tooltip.behaviour1": "Provides a certain amount of stress.",
+  "block.frostedheart.steam_core.tooltip.condition2": "When Pressure Is Low",
+  "block.frostedheart.steam_core.tooltip.behaviour2": "Shuts down.",
+
+  "block.frostedheart.cooled_magma_block.tooltip.summary": "A _Cooled_ Magma Block.",
+  "block.frostedheart.cooled_magma_block.tooltip.condition1": "When Soaked In Lava Long Enough",
+  "block.frostedheart.cooled_magma_block.tooltip.behaviour1": "Reheats Itself.",
+
+  "block.minecraft.magma_block.tooltip.summary": "A _Heated_ Magma Block.",
+  "block.minecraft.magma_block.tooltip.condition1": "When Not Soaked In Lava",
+  "block.minecraft.magma_block.tooltip.behaviour1": "Cools Itself.",
+
+  "block.frostedheart.thin_ice.tooltip.summary": "A fragile layer of frozen water.",
+
+  "item.frostedheart.makeshift_knife.tooltip.summary": "A simple knife, effective for cutting fibers, leaves, and grass.",
+
+  "block.minecraft.vine.tooltip.summary": "Strong natural fibers — but damp.",
+
+  "block.stone_age.tanning_rack.tooltip.summary": "A simple rack made of sticks for leather processing.",
+  "block.stone_age.tanning_rack.tooltip.condition1": "When right-clicked with an item to be tanned.",
+  "block.stone_age.tanning_rack.tooltip.behaviour1": "Right-click with a _Flint Processing Knife_ to begin tanning.",
+
+  "block.stone_age.fishing_net.tooltip.summary": "A makeshift trap for small underwater creatures.",
+  "block.stone_age.fishing_net.tooltip.condition1": "When Placed In River or Ocean Biomes and Completely Submerged by Water",
+  "block.stone_age.fishing_net.tooltip.behaviour1": "Captures unlucky underwater preys with a _Mesh_.",
+
+  "item.kubejs.activated_carbon.tooltip.summary": "Created by using charcoal on a Steam Charger.",
+
+  "block.minecraft.campfire.tooltip.summary": "A basic fireplace for warmth and cooking.",
+  "block.minecraft.campfire.tooltip.condition1": "When fuel is thrown onto it.",
+  "block.minecraft.campfire.tooltip.behaviour1": "Stores the fuel inside the campfire.",
+  "block.minecraft.campfire.tooltip.condition2": "When ignited.",
+  "block.minecraft.campfire.tooltip.behaviour2": "Maintains a gentle flame for cooking and resting.",
+
+  "item.frostedresearch.rubbing_tool.tooltip.summary": "A Rubbing Tool for auto-collecting Research Points.",
+  "item.frostedresearch.rubbing_tool.tooltip.condition1": "When Inspected in Drawing Desk after Research started",
+  "item.frostedresearch.rubbing_tool.tooltip.behaviour1": "Binds with _Current Research_",
+  "item.frostedresearch.rubbing_tool.tooltip.condition2": "When Installed on Mechanical Arm",
+  "item.frostedresearch.rubbing_tool.tooltip.behaviour2": "Collects _All Research Points_ stored in the facing _Calculator_.",
+  "item.frostedresearch.rubbing_tool.tooltip.condition3": "When Collected Enough Research Points and Inspected Again",
+  "item.frostedresearch.rubbing_tool.tooltip.behaviour3": "Applies the collected Research Points to Current Research.",
+
+  "block.minecraft.mud.tooltip.summary": "Sticky dirt with abundance of water, often formed from melting various dirt permafrost.",
+  "block.minecraft.mud.tooltip.condition1": "When Tilled With Hoe",
+  "block.minecraft.mud.tooltip.behaviour1": "Consumes _Biomass_ on _Offhand_ to revive it into _Dirt_.",
+
+  "block.minecraft.dirt.tooltip.summary": "Organic dirt abundant in microorganisms. Perfect for farming.",
+  "block.minecraft.dirt.tooltip.condition1": "When Long-Exposed In Below-Zero Degree Soil Temperature",
+  "block.minecraft.dirt.tooltip.behaviour1": "Freezes into Permafrost, and loses all its microorganism biomes.",
+
+  "item.frostedheart.biomass.tooltip.summary": "Organic matter rich in nitrogen. Easily obtainable through fermenting leftovers in a Composter.",
+
+  "item.frostedheart.basic_increasing_fertilizer.tooltip.summary": "Organic fertilizer to moderately boost production.",
+  "item.frostedheart.basic_increasing_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.basic_increasing_fertilizer.tooltip.behaviour1": "Fertilizes the soil such that crop on which yields 2 times more.",
+
+  "item.frostedheart.basic_accelerated_fertilizer.tooltip.summary": "Organic fertilizer to moderately boost growth speed.",
+  "item.frostedheart.basic_accelerated_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.basic_accelerated_fertilizer.tooltip.behaviour1": "Fertilizes the soil such that crop on which grows 2 times faster.",
+
+  "item.frostedheart.basic_preserved_fertilizer.tooltip.summary": "An organic layer to moderately preserve soil temperature.",
+  "item.frostedheart.basic_preserved_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.basic_preserved_fertilizer.tooltip.behaviour1": "Insulates the soil such that crop no longer dies and relaxes the growth requirement for 5°C additional degrees of coldness.",
+
+  "item.frostedheart.advanced_increasing_fertilizer.tooltip.summary": "Advanced fertilizer to considerably boost production.",
+  "item.frostedheart.advanced_increasing_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.advanced_increasing_fertilizer.tooltip.behaviour1": "Fertilizes the soil such that crop on which yields 3 times more.",
+
+  "item.frostedheart.advanced_accelerated_fertilizer.tooltip.summary": "Advanced fertilizer to considerably boost growth speed.",
+  "item.frostedheart.advanced_accelerated_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.advanced_accelerated_fertilizer.tooltip.behaviour1": "Fertilizes the soil such that crop on which grows 4 times faster.",
+
+  "item.frostedheart.advanced_preserved_fertilizer.tooltip.summary": "An flexible layer to considerably preserve soil temperature.",
+  "item.frostedheart.advanced_preserved_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.advanced_preserved_fertilizer.tooltip.behaviour1": "Insulates the soil such that crop no longer dies and relaxes the growth requirement for 10°C additional degrees of coldness.",
+
+  "item.frostedheart.ultimate_increasing_fertilizer.tooltip.summary": "Modern fertilizer to significantly boost production.",
+  "item.frostedheart.ultimate_increasing_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.ultimate_increasing_fertilizer.tooltip.behaviour1": "Fertilizes the soil such that crop on which yields 4 times more.",
+
+  "item.frostedheart.ultimate_accelerated_fertilizer.tooltip.summary": "Modern fertilizer to significantly boost growth speed.",
+  "item.frostedheart.ultimate_accelerated_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.ultimate_accelerated_fertilizer.tooltip.behaviour1": "Fertilizes the soil such that crop on which grows 8 times faster.",
+
+  "item.frostedheart.ultimate_preserved_fertilizer.tooltip.summary": "An insulated layer to significantly preserve soil temperature.",
+  "item.frostedheart.ultimate_preserved_fertilizer.tooltip.condition1": "When Applied on Farmland or Dirt",
+  "item.frostedheart.ultimate_preserved_fertilizer.tooltip.behaviour1": "Insulates the soil such that crop no longer dies and relaxes the growth requirement for 20°C additional degrees of coldness."
+}

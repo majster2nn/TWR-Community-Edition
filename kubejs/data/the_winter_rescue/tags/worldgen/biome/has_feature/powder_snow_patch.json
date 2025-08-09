@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "the_winter_rescue:nature/glacier",
+    "the_winter_rescue:nature/slabback_massif",
+    "the_winter_rescue:nature/frostpine_grove",
+    "the_winter_rescue:nature/scree_pine_grove",
+    "minecraft:badlands",
+    "minecraft:jagged_peaks",
+    "minecraft:frozen_peaks",
+    "minecraft:snowy_slopes",
+    "minecraft:snowy_plains",
+    "minecraft:ice_spikes",
+    "the_winter_rescue:alpine_glacier",
+    "the_winter_rescue:ice_cap",
+    "the_winter_rescue:tidewater_glacier",
+    "the_winter_rescue:tundra",
+    "the_winter_rescue:valley_glacier"
+  ]
+}

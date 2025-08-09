@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snowy_beach",
+    "minecraft:stony_shore",
+    "minecraft:frozen_ocean",
+    "minecraft:deep_frozen_ocean",
+    "the_winter_rescue:tidewater_glacier",
+    "the_winter_rescue:ice_cap"
+  ]
+}

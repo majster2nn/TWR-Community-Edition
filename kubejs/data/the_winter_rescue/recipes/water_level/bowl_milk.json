@@ -1,0 +1,8 @@
+{
+  "type": "frostedheart:water_level_item",
+  "ingredient": {
+    "item": "caupona:plain_milk"
+  },
+  "waterLevel": 1,
+  "waterSaturationLevel": 1
+}

@@ -1,0 +1,15 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "create:crushed_raw_iron"
+  },
+  "fluid": {
+    "tag": "the_winter_rescue:ferrous_chloride",
+    "amount": 375
+  },
+  "result_fluid": {
+    "fluid": "frostedheart:chlorine",
+    "amount": 350
+  },
+  "time": 240
+}

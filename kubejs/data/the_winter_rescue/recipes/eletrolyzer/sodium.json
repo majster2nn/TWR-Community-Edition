@@ -1,0 +1,14 @@
+{
+  "type": "immersiveindustry:electrolyzer",
+  "result": {
+    "item": "frostedheart:sodium_ingot"
+  },
+  "input": {
+    "base_ingredient": {
+      "item": "frostedheart:sodium_hydroxide_dust"
+    },
+    "count": 2
+  },
+  "large_only": true,
+  "time": 240
+}

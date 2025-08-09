@@ -1,0 +1,4 @@
+#Range Detection tasks to execute per tick
+#Range: 0.005 ~ 2.147483647E9
+taskPerTick = 1.0
+

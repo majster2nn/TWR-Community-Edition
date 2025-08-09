@@ -1,0 +1,176 @@
+{
+  "the_winter_rescue:valley_glacier": {
+    "r": 170,
+    "g": 112,
+    "b": 236,
+    "cave": false
+  },
+  "the_winter_rescue:nature/destroyed_marsh": {
+    "r": 202,
+    "g": 150,
+    "b": 215,
+    "cave": false
+  },
+  "the_winter_rescue:mycelium_caves": {
+    "r": 165,
+    "g": 89,
+    "b": 249,
+    "cave": false
+  },
+  "the_winter_rescue:underwater_volcano": {
+    "r": 140,
+    "g": 47,
+    "b": 13,
+    "cave": false
+  },
+  "the_winter_rescue:nature/snowy_shrubland": {
+    "r": 90,
+    "g": 129,
+    "b": 87,
+    "cave": false
+  },
+  "the_winter_rescue:diorite_caves": {
+    "r": 204,
+    "g": 204,
+    "b": 204,
+    "cave": false
+  },
+  "the_winter_rescue:nature/ironwinter_hollow": {
+    "r": 0,
+    "g": 255,
+    "b": 61,
+    "cave": false
+  },
+  "the_winter_rescue:hydrothermal_deposits": {
+    "r": 253,
+    "g": 242,
+    "b": 34,
+    "cave": false
+  },
+  "minecraft:frozen_ocean": {
+    "r": 31,
+    "g": 73,
+    "b": 227,
+    "cave": false
+  },
+  "minecraft:deep_frozen_ocean": {
+    "r": 1,
+    "g": 48,
+    "b": 101,
+    "cave": false
+  },
+  "the_winter_rescue:darkfang_caves": {
+    "r": 45,
+    "g": 40,
+    "b": 50,
+    "cave": false
+  },
+  "the_winter_rescue:nature/scree_pine_grove": {
+    "r": 21,
+    "g": 39,
+    "b": 24,
+    "cave": false
+  },
+  "the_winter_rescue:glacial_lakes": {
+    "r": 107,
+    "g": 223,
+    "b": 224,
+    "cave": false
+  },
+  "the_winter_rescue:glacial_ices": {
+    "r": 17,
+    "g": 63,
+    "b": 90,
+    "cave": false
+  },
+  "the_winter_rescue:tidewater_glacier": {
+    "r": 125,
+    "g": 241,
+    "b": 254,
+    "cave": false
+  },
+  "the_winter_rescue:destroyed_forest": {
+    "r": 101,
+    "g": 30,
+    "b": 8,
+    "cave": false
+  },
+  "the_winter_rescue:ice_caves": {
+    "r": 140,
+    "g": 179,
+    "b": 214,
+    "cave": false
+  },
+  "the_winter_rescue:nature/frostpine_grove": {
+    "r": 202,
+    "g": 217,
+    "b": 36,
+    "cave": false
+  },
+  "the_winter_rescue:ice_cap": {
+    "r": 251,
+    "g": 251,
+    "b": 251,
+    "cave": false
+  },
+  "minecraft:snowy_plains": {
+    "r": 206,
+    "g": 237,
+    "b": 218,
+    "cave": false
+  },
+  "minecraft:stony_shore": {
+    "r": 73,
+    "g": 84,
+    "b": 98,
+    "cave": false
+  },
+  "minecraft:snowy_taiga": {
+    "r": 42,
+    "g": 168,
+    "b": 114,
+    "cave": false
+  },
+  "the_winter_rescue:fossil_deposits": {
+    "r": 62,
+    "g": 2,
+    "b": 121,
+    "cave": false
+  },
+  "the_winter_rescue:andesite_caves": {
+    "r": 119,
+    "g": 119,
+    "b": 122,
+    "cave": false
+  },
+  "the_winter_rescue:nature/destroyed_birch_forest": {
+    "r": 28,
+    "g": 38,
+    "b": 50,
+    "cave": false
+  },
+  "the_winter_rescue:magmatic_deposits": {
+    "r": 238,
+    "g": 138,
+    "b": 2,
+    "cave": false
+  },
+  "minecraft:grove": {
+    "r": 106,
+    "g": 246,
+    "b": 151,
+    "cave": false
+  },
+  "the_winter_rescue:crust_chasms": {
+    "r": 253,
+    "g": 14,
+    "b": 8,
+    "cave": false
+  },
+  "the_winter_rescue:nature/frostbough_forest": {
+    "r": 0,
+    "g": 106,
+    "b": 18,
+    "cave": false
+  }
+}
