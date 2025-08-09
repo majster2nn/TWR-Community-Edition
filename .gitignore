@@ -1,0 +1,12 @@
+# Ignore everything by default
+*
+
+# But not these directories
+!config/
+!defaultconfigs/
+!mods/
+!kubejs/
+!datapacks/
+
+# Also allow .gitignore itself
+!.gitignore
