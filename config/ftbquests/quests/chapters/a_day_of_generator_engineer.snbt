@@ -98,11 +98,49 @@
 			shape: "gear"
 			size: 2.5d
 			subtitle: "{quest.twr.2D570AD59FE2D6E1.subtitle}"
-			tasks: [{
-				id: "0FAB6E315ECD3A7F"
-				item: "frostedheart:invar_block"
-				type: "item"
-			}]
+			tasks: [
+				{
+					count: 8L
+					id: "0FAB6E315ECD3A7F"
+					item: "frostedheart:invar_block"
+					type: "item"
+				}
+				{
+					count: 7L
+					id: "3B03D896DD2BB569"
+					item: { Count: 7, id: "immersiveengineering:fluid_pipe" }
+					type: "item"
+				}
+				{
+					count: 25L
+					id: "6C3ACD1F2F0956F1"
+					item: { Count: 25, id: "immersiveengineering:sheetmetal_iron" }
+					type: "item"
+				}
+				{
+					count: 16L
+					id: "4B6CF12AB75BF90D"
+					item: { Count: 16, id: "frostedheart:high_refractory_bricks" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "2D26EEE55C3ADD4B"
+					item: { Count: 2, id: "steampowered:cast_iron_boiler" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "2F01478C1A3457E1"
+					item: { Count: 4, id: "frostedheart:cast_iron_block" }
+					type: "item"
+				}
+				{
+					id: "7DD9F1CA3D7C0D40"
+					item: "frostedheart:generator_core_t1"
+					type: "item"
+				}
+			]
 			title: "{quest.twr.2D570AD59FE2D6E1.title}"
 			x: -8.0d
 			y: -4.0d
