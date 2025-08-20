@@ -1160,25 +1160,14 @@ ServerEvents.recipes((event) => {
             }
         ],
         [
-            "create:windmill_bearing", [
-                "CAC",
-                "BDB",
-                "CAC"
-            ], {
-                A: "steampowered:cast_iron_cogwheel",
-                B: "frostedheart:cast_iron_sheet",
-                C: "frostedheart:cast_iron_block",
-                D: "create:andesite_casing"
-            }
-        ],
-        [
-            "create:white_sail", 2,[
+            "minecraft:bundle", [
                 "ABA",
-                "B B",
+                "BCB",
                 "ABA"
             ], {
-                A: "frostedheart:cast_iron_rod",
-                B: "immersiveengineering:hemp_fabric"
+                A: "minecraft:string",
+                B: "minecraft:leather",
+                C: "create:iron_sheet"
             }
         ]
 
