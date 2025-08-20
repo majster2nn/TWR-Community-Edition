@@ -21,7 +21,7 @@ ServerEvents.recipes((event) => {
 		
         {
             output: "kubejs:creosoted_charcoal_briquette",
-            input: ["kubejs:charcoal_dust", Fluid.of("immersiveengineering:creosote", 250)]
+            input: ["kubejs:charcoal_dust", Fluid.of("immersiveengineering:creosote", 260)]
         },
         {
             output: "kubejs:creosoted_sawdust_briquette",
@@ -85,7 +85,11 @@ ServerEvents.recipes((event) => {
         {
             output: "5x frostedheart:compressed_biscuits",
             input: [Fluid.of("immersiveengineering:plantoil", 100), "4x create:wheat_flour"]
-        }
+        },
+    	{
+			input: ['create:brass_sheet', 'frostedheart:cast_iron_sheet'],
+			output: ["create:sturdy_sheet"]
+		},
     ]
     items.forEach((item, index) => {
         create.compacting(item.output, item.input)
